@@ -1,7 +1,6 @@
 ---
 title:  "Nobody else was around."
 subtitle: "A Beautiful shot during the night."
-markID:"A Beautiful shot during the night."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
